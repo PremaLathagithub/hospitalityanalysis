@@ -26,7 +26,7 @@ ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis
 
 ## Insights from the Dashboard
 
--AtliQ lost around 298 Million in cancellation
+-AtliQ lost around 298 Million in cancellation.
 
 -Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 
