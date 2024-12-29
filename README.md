@@ -37,3 +37,9 @@ ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis
 -Week 24 recorded the highest revenue among all, which is 139.6 Million
 
 -Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+
+
+
+
+## Live dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNzgzNWE4NjctODQ4NS00ZjY1LTk4NTYtNmFkNmM1MWU4ODQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
